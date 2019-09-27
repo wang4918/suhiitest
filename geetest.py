@@ -24,6 +24,3 @@ myMap.add_ee_layer(isa, {}, 'New')
 myMap.add_child(folium.LayerControl())
 
 display(myMap)
-
-#Testing a thing, just to see if it works
-#Learning is #fun
