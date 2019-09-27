@@ -17,7 +17,9 @@ def add_ee_layer(self, eeImageObject, visParams, name):
 folium.Map.add_ee_layer = add_ee_layer
 
 roi = ee.FeatureCollection('users/michaelwangye/Santiago_di_Chile/Santiago_di_Chile_DIS_Indizes')
-isa = ee.ImageCollection('users/michaelwangye/WSFBinary').filterBounds(roi).reduce(reducer = ee.Reducer.max()).select(["b1_max"],["b1"]).clip(roi)
+isa = ee.ImageCollection('users/michaelwangye/WSFBinary') \
+      .filterBounds(roi) \
+      .reduce(reducer = ee.Reducer.max()).select(["b1_max"],["b1"]).clip(roi) # pylint: disable=no-member 
 
 myMap = folium.Map(location=[20, 0], zoom_start=3, height=500)
 myMap.add_ee_layer(isa, {}, 'New')
