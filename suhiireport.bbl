@@ -1,0 +1,253 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ynt/global//global/global}
+    \entry{r_squared_distractions}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=0a40a4073f07d76cbb6862a8aef9a713}{%
+           family={Shalizi},
+           familyi={S\bibinitperiod},
+           given={Cosma},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{0a40a4073f07d76cbb6862a8aef9a713}
+      \strng{fullhash}{0a40a4073f07d76cbb6862a8aef9a713}
+      \strng{bibnamehash}{0a40a4073f07d76cbb6862a8aef9a713}
+      \strng{authorbibnamehash}{0a40a4073f07d76cbb6862a8aef9a713}
+      \strng{authornamehash}{0a40a4073f07d76cbb6862a8aef9a713}
+      \strng{authorfullhash}{0a40a4073f07d76cbb6862a8aef9a713}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Online}
+      \field{month}{10}
+      \field{title}{Lecture 10: F-Tests, R2, and Other Distractions}
+      \field{urlday}{30}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.stat.cmu.edu/~cshalizi/mreg/15/lectures/10/lecture-10.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.stat.cmu.edu/~cshalizi/mreg/15/lectures/10/lecture-10.pdf
+      \endverb
+    \endentry
+    \entry{pekel_high-resolution_2016}{article}{}
+      \name{author}{4}{}{%
+        {{hash=80a89573c7e95de08aa54201b87877e0}{%
+           family={Pekel},
+           familyi={P\bibinitperiod},
+           given={Jean-François},
+           giveni={J\bibinithyphendelim F\bibinitperiod}}}%
+        {{hash=69f1c453c04f282e9ad3bc566266b71a}{%
+           family={Cottam},
+           familyi={C\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ecdf9b747a50a0392d63cfcb19bab980}{%
+           family={Gorelick},
+           familyi={G\bibinitperiod},
+           given={Noel},
+           giveni={N\bibinitperiod}}}%
+        {{hash=7a20256757ef239d922031a39432ebd5}{%
+           family={Belward},
+           familyi={B\bibinitperiod},
+           given={Alan\bibnamedelima S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{979c0664df43bcc1736eca1f9058346b}
+      \strng{fullhash}{b5785db9f78a911e93b8540adf3f2003}
+      \strng{bibnamehash}{b5785db9f78a911e93b8540adf3f2003}
+      \strng{authorbibnamehash}{b5785db9f78a911e93b8540adf3f2003}
+      \strng{authornamehash}{979c0664df43bcc1736eca1f9058346b}
+      \strng{authorfullhash}{b5785db9f78a911e93b8540adf3f2003}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0028-0836, 1476-4687}
+      \field{journaltitle}{Nature}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{number}{7633}
+      \field{shortjournal}{Nature}
+      \field{title}{High-resolution mapping of global surface water and its long-term changes}
+      \field{urlday}{27}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{volume}{540}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{418\bibrangedash 422}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1038/nature20584
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nature.com/articles/nature20584
+      \endverb
+      \verb{url}
+      \verb http://www.nature.com/articles/nature20584
+      \endverb
+    \endentry
+    \entry{parastatidis_online_2017}{article}{}
+      \name{author}{4}{}{%
+        {{hash=2f1d1cefb6c2be76e85f7c83abe0d8fa}{%
+           family={Parastatidis},
+           familyi={P\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=2a9dae1ef37fc2c7a8b5beff609b12c5}{%
+           family={Mitraka},
+           familyi={M\bibinitperiod},
+           given={Zina},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=96687eeb830910fcff786ab7ca57497c}{%
+           family={Chrysoulakis},
+           familyi={C\bibinitperiod},
+           given={Nektrarios},
+           giveni={N\bibinitperiod}}}%
+        {{hash=b768cf2e7173feaf58ea130679a8e479}{%
+           family={Abrams},
+           familyi={A\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{3eeeda68a24d17e9705f5e20daf918c2}
+      \strng{fullhash}{e3f55463174d4050ca06b1adc2dbe7a6}
+      \strng{bibnamehash}{e3f55463174d4050ca06b1adc2dbe7a6}
+      \strng{authorbibnamehash}{e3f55463174d4050ca06b1adc2dbe7a6}
+      \strng{authornamehash}{3eeeda68a24d17e9705f5e20daf918c2}
+      \strng{authorfullhash}{e3f55463174d4050ca06b1adc2dbe7a6}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{23}
+      \field{issn}{2072-4292}
+      \field{journaltitle}{Remote Sensing}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{number}{12}
+      \field{shortjournal}{Remote Sensing}
+      \field{title}{Online Global Land Surface Temperature Estimation from Landsat}
+      \field{urlday}{27}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{volume}{9}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1208}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/rs9121208
+      \endverb
+      \verb{file}
+      \verb Full Text:C\:\\Users\\wang_mc\\Zotero\\storage\\DWWL689F\\Parastatidis et al. - 2017 - Online Global Land Surface Temperature Estimation .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.mdpi.com/2072-4292/9/12/1208
+      \endverb
+      \verb{url}
+      \verb http://www.mdpi.com/2072-4292/9/12/1208
+      \endverb
+    \endentry
+    \entry{li_new_2018}{article}{}
+      \name{author}{7}{}{%
+        {{hash=17fe1d454ca3a23a0965868f18faad8f}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Huidong},
+           giveni={H\bibinitperiod}}}%
+        {{hash=a7da13d3a0c651ed594151519b0d96a2}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={Yuyu},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=46c82dd922ca07e593a1cb8912f8cfdf}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xiaoma},
+           giveni={X\bibinitperiod}}}%
+        {{hash=4a7b5fe1e29d4d8b67fac6f371fa6973}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Lin},
+           giveni={L\bibinitperiod}}}%
+        {{hash=954273daeaa75802cdbc57070693f02b}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xun},
+           giveni={X\bibinitperiod}}}%
+        {{hash=2eac570b60a901ceb18b6181ce301e89}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Sha},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8dbc5cdda3ce5c53db415e4a9e3295b8}{%
+           family={Sodoudi},
+           familyi={S\bibinitperiod},
+           given={Sahar},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e46bbd4b6feb4a768e3998d0b3440313}
+      \strng{fullhash}{f0c8580f9b2431ae4dc7b50aab2c01bf}
+      \strng{bibnamehash}{e46bbd4b6feb4a768e3998d0b3440313}
+      \strng{authorbibnamehash}{e46bbd4b6feb4a768e3998d0b3440313}
+      \strng{authornamehash}{e46bbd4b6feb4a768e3998d0b3440313}
+      \strng{authorfullhash}{f0c8580f9b2431ae4dc7b50aab2c01bf}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00489697}
+      \field{journaltitle}{Science of The Total Environment}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{shortjournal}{Science of The Total Environment}
+      \field{title}{A new method to quantify surface urban heat island intensity}
+      \field{urlday}{11}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{volume}{624}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{262\bibrangedash 272}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.scitotenv.2017.11.360
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0048969717334186
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0048969717334186
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

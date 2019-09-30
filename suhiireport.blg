@@ -1,0 +1,19 @@
+[0] Config.pm:304> INFO - This is Biber 2.13
+[0] Config.pm:307> INFO - Logfile is 'suhiireport.blg'
+[27] biber-MSWIN32:315> INFO - === 
+[45] Biber.pm:375> INFO - Reading 'suhiireport.bcf'
+[138] Biber.pm:905> INFO - Found 4 citekeys in bib section 0
+[153] Biber.pm:4196> INFO - Processing section 0
+[154] Utils.pm:75> INFO - Globbing data source 'mybib.bib'
+[162] Utils.pm:91> INFO - Globbed data source 'mybib.bib' to mybib.bib
+[174] Biber.pm:4373> INFO - Looking for bibtex format file 'mybib.bib' for section 0
+[182] bibtex.pm:1462> INFO - LaTeX decoding ...
+[196] bibtex.pm:1281> INFO - Found BibTeX data source 'mybib.bib'
+[224] Utils.pm:300> WARN - month field 'October' in entry 'r_squared_distractions' is not an integer - this will probably not sort properly.
+[242] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[242] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[242] Biber.pm:4024> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'en-US'
+[242] Biber.pm:4030> INFO - No sort tailoring available for locale 'en-US'
+[251] bbl.pm:648> INFO - Writing 'suhiireport.bbl' with encoding 'UTF-8'
+[255] bbl.pm:751> INFO - Output to suhiireport.bbl
+[259] Biber.pm:110> INFO - WARNINGS: 1
