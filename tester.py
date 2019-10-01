@@ -65,20 +65,23 @@ def plotisalst(summer, winter, annual, name, magorder):
           cellLoc='right', rowLoc='center',
           loc='lower right', bbox=[0.15,-0.45,0.85,.28])
   plt.subplots_adjust(bottom=0.3)
-  plt.savefig('C:\\Users\\wang_mc\\VSCode\\Charts\\%s.png'%name)
+  plt.savefig('C:\\Users\\wang_mc\\VSCode\\CURE\\%s.png'%name)
   
 
-path = 'C:\\Users\\wang_mc\\VSCode\\CSVs'
+path = 'C:\\Users\\wang_mc\\VSCode\\CURE'
 os.chdir(path)
 
-cityname = ['Addis_Abeba','Amsterdam','Ankara','Athens','Beijing','Berlin','Birmingham',
-        'Bruxelles','Budapest','Casablanca','Chicago','Copenhagen','Dehli',
-        'Dubai',"Dublin",'Geneva','Glasgow','Gothenburg','Hamburg','Helsinki',
-        'Hong_Kong','Izmir','Jerusalem','Johannesburg','Lisbon','London','Madrid',
-        'Medellin','Melbourne','Milan','Montreal','Munich','Nairobi','Niigata','Oslo',
-        'Paris','Phoenix','Portland','Prag','Roma','Santiago','Seoul','Shizouka',
-        'Singapore','Stockholm','Strasburg','Sydney','Taipeh','Tallinn','Teheran',
-        'Tshwane','Turin','Vancouver','Vienna','Warsaw','Zuerich']
+cityname = ['Basel', 'Berlin', 'Bristol', 'Copenhagen', 'Heraklion',
+            'Munich', 'Ostrava', 'Vitoria_Gasteiz']
+
+# ['Addis_Abeba','Amsterdam','Ankara','Athens','Beijing','Berlin','Birmingham',
+#         'Bruxelles','Budapest','Casablanca','Chicago','Copenhagen','Dehli',
+#         'Dubai',"Dublin",'Geneva','Glasgow','Gothenburg','Hamburg','Helsinki',
+#         'Hong_Kong','Izmir','Jerusalem','Johannesburg','Lisbon','London','Madrid',
+#         'Medellin','Melbourne','Milan','Montreal','Munich','Nairobi','Niigata','Oslo',
+#         'Paris','Phoenix','Portland','Prag','Roma','Santiago','Seoul','Shizouka',
+#         'Singapore','Stockholm','Strasburg','Sydney','Taipeh','Tallinn','Teheran',
+#         'Tshwane','Turin','Vancouver','Vienna','Warsaw','Zuerich']
 
 for city in cityname:
   summer = pd.read_csv('%sSummer.csv'%city)
